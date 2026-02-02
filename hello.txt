@@ -1,2 +1,6 @@
 Hello World
 This is my GitHub version control assignment.
+Name: Tanuj Nimmala
+Assignment: GitHub Version Control
+Branch: feature-1
+Date: 2 Feb 2026
